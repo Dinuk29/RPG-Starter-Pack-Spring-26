@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"RPG Starter Pack",
+  "%Name":"RPG 2",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -21,7 +21,7 @@
   "MetaData":{
     "IDEVersion":"2024.14.3.217",
   },
-  "name":"RPG Starter Pack",
+  "name":"RPG 2",
   "resources":[
     {"id":{"name":"ReadMe","path":"notes/ReadMe/ReadMe.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
